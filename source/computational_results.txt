@@ -1,0 +1,5 @@
+PASS: 125,249 residue/modulus pairs checked, 2 <= n <= 500
+PASS: direct iteration, gcd formula, cycle counts and totient distribution
+Z_10: ord(0)=1, ord(1)=10, ord(2)=5, ord(3)=10, ord(4)=5, ord(5)=2, ord(6)=5, ord(7)=10, ord(8)=5, ord(9)=10
+Z_12: ord(0)=1, ord(1)=12, ord(2)=6, ord(3)=4, ord(4)=3, ord(5)=12, ord(6)=2, ord(7)=12, ord(8)=3, ord(9)=4
+Z_100: ord(0)=1, ord(1)=100, ord(2)=50, ord(3)=100, ord(4)=25, ord(5)=20, ord(6)=50, ord(7)=100, ord(8)=25, ord(9)=100
